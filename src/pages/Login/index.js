@@ -11,7 +11,7 @@ export default function Login() {
     const history = useHistory();
 
     function handleSubmit() {
-        history.push('/');
+        history.push('/home');
     }
   return (
     <div className="container-login">
