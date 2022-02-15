@@ -6,6 +6,11 @@
     display: flex;   
 }
 
+.menu button {
+    background-color: transparent;
+    border: none;
+}
+
 .menu a {
     text-decoration: none;
 }
